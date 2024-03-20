@@ -1,1 +1,6 @@
 # cion-AI-ios
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-16 at 18 32 52](https://github.com/xick66/cion-AI-ios/assets/126589920/c3294544-c56e-4ca1-84d9-915c09e92bda)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-16 at 18 33 09](https://github.com/xick66/cion-AI-ios/assets/126589920/3911678b-ca44-48dd-b1d4-6a82d19bebb1)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-16 at 18 33 34](https://github.com/xick66/cion-AI-ios/assets/126589920/5542d44c-d4ff-4d77-a221-bf3a2bfb73da)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-16 at 18 34 05](https://github.com/xick66/cion-AI-ios/assets/126589920/c067cded-00e8-4124-bfc3-6c411d4733f6)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-16 at 18 34 32](https://github.com/xick66/cion-AI-ios/assets/126589920/8259d834-bf79-4a03-b14b-c99dba3aadf5)
