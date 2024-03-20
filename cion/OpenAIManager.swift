@@ -15,7 +15,7 @@ class OpenAIManager {
     private init() {}
 
     func analyzeImage(image: UIImage, completion: @escaping (Result<String, Error>) -> Void) {
-        let apiKey = ""  // Replace with your actual API key
+        let apiKey = ""  // Add API key here
         let base64Image = UIImageToBase64.convert(image: image)
 
         let headers: [String: String] = [
@@ -102,8 +102,6 @@ class OpenAIManager {
 
         task.resume()
     }
-
-
 
     func analyzeText(text: String, completion: @escaping (Result<String, Error>) -> Void) {
         let apiKey = ""
